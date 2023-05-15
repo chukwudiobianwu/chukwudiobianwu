@@ -1,7 +1,15 @@
 ![Alt Text](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODkyMzYyMy9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTYzNzUxNjA1M30.9ke_0SN6rB4DUP7GI2xdyyR7OeBbw1DCk7Nr3PtsyYk/img.gif?width=980)
 
 <h1 align="center">Hi 👋, I'm chukwudi obianwu</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">I am currently pursuing a double major in Computer Science and Geography at the University of Victoria. I am passionate about leveraging technology to solve real-world problems and make a positive impact on society.
+
+Throughout my academic journey, I have developed a strong foundation in programming, data analysis, and geographic information systems (GIS). I enjoy exploring the intersection of these fields, where I can utilize my technical skills to analyze geospatial data and develop innovative software solutions.
+
+My goal is to become a software developer, where I can apply my knowledge and skills to create robust and efficient software applications. I am particularly interested in web and mobile app development, machine learning, and data visualization. I am continuously expanding my knowledge through self-learning and staying up-to-date with the latest trends and technologies in the field of software development.
+
+I am actively seeking opportunities to gain practical experience and work on challenging projects. I am eager to contribute to a dynamic team where I can collaborate, learn, and grow as a professional. I believe in the power of teamwork, problem-solving, and continuous learning to drive success in the ever-evolving world of technology.
+
+If you have any opportunities or would like to discuss potential collaborations, I would be thrilled to connect with you. Let's make a positive impact together through software development!r</h3>
 
 - 🌱 I’m currently learning **mobile development**
 
